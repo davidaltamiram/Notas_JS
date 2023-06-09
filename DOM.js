@@ -141,3 +141,13 @@ appendImg.alt = "Imagen sorpresa";
 
 //2do insertar
 document.body.appendChild(appendImg);
+
+
+
+
+
+
+
+
+
+
